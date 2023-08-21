@@ -1,5 +1,5 @@
 // Firebase Realtime Database URL
-const databaseURL = "https://escapehousecleaningfeedbacks-default-rtdb.firebaseio.com/";
+const databaseURL = "https://escapehousecleaning-cef0f-default-rtdb.firebaseio.com/";
 
 // Fetch all feedback keys
 fetch(`${databaseURL}/feedback.json`)
